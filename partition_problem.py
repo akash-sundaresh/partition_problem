@@ -28,3 +28,5 @@ if __name__ == '__main__':
         print('The list can be split into 2 lists with equal sums..!')
     else:
         print('The list can not be split into 2 lists with equal sums..!')
+
+  
